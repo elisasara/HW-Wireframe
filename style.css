@@ -43,6 +43,7 @@ aside {
     width: 42%;
     background-color:#ebebeb;
     margin-top: 10px;
+    height: 234px;
 }
 
 .clearfix::after {
